@@ -1,0 +1,143 @@
+.box{
+    background-color: rgb(38, 228, 128);
+    box-sizing: border-box;
+    width: 500px;
+    padding: 80px 50px;
+    padding-bottom: 100px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+.box h1{
+    font-size: 42px;
+}
+.box p{
+    font-size: 16px;
+}
+.box-btn{
+    background-color: white;
+    width:50%;
+    border: none;
+    padding: 8px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 60px;
+}
+
+.box2{
+    border: 1px solid lightgray;
+    width: 500px;
+    margin: 50px auto;
+    border-radius: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    font-size: 30px;
+    margin-bottom: -9px;
+    
+}
+.line{
+    color: rgb(83, 87,91);
+    font-size: 19px;
+}
+.box2-img{
+    width: 19%;
+    border-radius: 50%;
+    margin: 20px 50px;
+    margin-top: -10px;
+
+}
+
+.padding{
+    padding: 20px;
+}
+.footer{
+    border-top: 1px solid lightgray;
+}
+.footer p{
+    color: rgb(25,91,226);
+    font-size: 19px;
+    margin: 0;
+}
+
+.box3{
+    width: 400px;
+    margin: 50px auto;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+}
+.box3 img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+
+.box3-line1{
+    margin-top: -2px;
+    margin-bottom: -15px;
+    font-size: 20px;
+    color: rgb(83, 87,91);
+}
+.heading2{
+    font-size: 30px;
+}
+.line2{
+    color: rgb(83, 87,91);
+    font-size: 20px;
+    margin-top: -13px;
+}
+.box3-btn{
+    color: rgb(25,91,226);
+    border: 1px solid lightgray;
+    background-color: white;
+    padding: 10px 35px;
+    font-size: 19px;
+    border-radius: 5px;
+    margin: 7px 0;
+}
+.login{
+    text-align: center;
+    width: 340px;
+    margin: 50px auto;
+    border-top: 1px solid lightgray;
+}
+.input{
+    width: 100%;
+    margin-bottom: 19px;
+    padding: 18px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid rgb(181, 181, 181);
+}
+.login-btn{
+    width: 70%;
+    margin: 20px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    padding: 19px;
+    font-size: 16px;
+    border: none;
+    background-color: black;
+    color: white;
+    box-shadow: inset;
+}
+.logo{
+    width: 65%;
+    margin: 30px auto;
+}
+.login-line1{
+    margin: 20px;
+    color: rgb(109, 113, 118);
+}
+.login-line1 a{
+    color: rgb(109, 113, 118);
+}
+.login-line2{
+    margin: 20px;
+    color: rgb(151, 156, 160);
+    font-size: 14px;
+}
+.login-line2 a{
+    color: rgb(151, 156, 160);
+}
