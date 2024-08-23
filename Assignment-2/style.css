@@ -115,7 +115,7 @@ body{
     width: 550px;
     margin: 50px auto;
     border: 20px solid lightgray;
-    border-bottom: none;
+    border-bottom: 5px solid lightgray ;
     
 }
 .images{
