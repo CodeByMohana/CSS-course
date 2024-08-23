@@ -42,3 +42,75 @@ body{
     padding: 3px;
     color: rgb(162, 162, 162);
 }
+.box2{
+    width: 550px;
+    margin: 50px auto;
+    position: relative;
+}
+.box2-img{
+    width: 100%;
+    border-radius: 20px;
+    
+}
+.box2-content{
+    position: absolute;
+    text-align: center;
+    padding: 4px;
+    bottom: 60px;
+    color: white;
+}
+.box2-btn{
+    border: 0;
+    background-color: white;
+    padding: 12px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.box3{
+    position: relative;
+    width: 550px;
+    margin: 50px auto;
+}
+.box3-img{
+    width: 100%;
+}
+.box3-content{
+    position: absolute;
+    text-align: center;
+    padding: 4px;
+    bottom: 40px;
+}
+.box3-content h1{
+    color: white;
+}
+.search-bar{
+    width: 100%;
+    display: inline-flex;
+    margin-left: 50px;
+    background-color: white;
+}
+.select select{
+    width: 150px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    background-color: white;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.search{
+    display: inline-flex;
+}
+.search-img{
+    background-color: white;
+    display: inline-block;
+    width: 5%;
+    padding: 9px;
+    border: 1px solid lightgray;
+    margin: 0;
+}
+.search input{
+    border: 1px solid lightgray;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    width: 60%
+}
